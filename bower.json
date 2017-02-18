@@ -15,7 +15,8 @@
     "ramda-import": "dwsmorris/ramda-import",
     "webcomponentsjs": "dwsmorris/webcomponentsjs#master",
     "lodash-import": "dwsmorris/lodash-import",
-    "matches.js": "dwsmorris/matches.js#master"
+    "matches.js": "dwsmorris/matches.js#master",
+    "polymer": "polymer/polymer"
   },
   "devDependencies": {
     "web-component-tester": "^4.0.0"
